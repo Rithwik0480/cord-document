@@ -24,7 +24,7 @@ Before we begin it is necessary to understand that the generation of the node ke
 </aside>
 
 <aside>
-💡 GCP instance type: n2-standard-8
+ GCP instance type: n2-standard-8
 
 </aside>
 
@@ -131,7 +131,7 @@ sudo tail -f /var/log/syslog
 ## Using Docker for Boot Node
 
 <aside>
-💡 **Install Docker :** [https://docs.docker.com/engine/install/ubuntu/](https://docs.docker.com/engine/install/ubuntu/)
+💡 Install Docker :[https://docs.docker.com/engine/install/ubuntu/](https://docs.docker.com/engine/install/ubuntu/)
 
 - **Post-installation steps for Docker 👇**
     
