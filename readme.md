@@ -43,7 +43,7 @@ Before we begin it is necessary to understand that the generation of the node ke
 </aside>
 
 <aside>
-💡 AWS Instance type: t2.micro
+AWS Instance type: t2.micro
 
 </aside>
 
