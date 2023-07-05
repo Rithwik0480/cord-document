@@ -24,7 +24,7 @@ Before we begin it is necessary to understand that the generation of the node ke
 </aside>
 
 <aside>
- GCP instance type: n2-standard-8
+ , GCP instance type: n2-standard-8
 
 </aside>
 
